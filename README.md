@@ -9,8 +9,4 @@
 ## Introduction 👋 
 This is the __GitHub repository__ for my __python modules__, don't expect much since I don't do a lot of __python__ now :/
 ## Installation 📦 
-I'm planning on making these __installable__ via `pip`, for example
-
-``pip install CountR``
-
-__Though I haven't figured that out yet__
+no installation lol
